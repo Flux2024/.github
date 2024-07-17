@@ -2,16 +2,16 @@
 <br>
 <div align="center">
 
-[👉 프로젝트 위키](https://github.com/Flux2024/.github/wiki)
+[🔸 프로젝트 위키 🔸](https://github.com/Flux2024/.github/wiki)
 <br>
-  <h3>프로젝트 목표</h3>
+  <h3>🔷 프로젝트 목표 🔷</h3>
   <p>본 프로젝트는 최신 웹 기술을 활용하여 온라인 경매 웹 애플리케이션을 구축하는 것을 목표로 합니다.</p> 
   <p>백엔드는 <strong>Spring 프레임워크</strong> 를, 프론트엔드는 <strong>Vue.js 프레임워크</strong> 를 사용하여 구현할 예정입니다.</p>
   <br>
-  <h3>프로젝트 기간</h3>
+  <h3>🔷 프로젝트 기간 🔷</h3>
   <p>2024.07.15 ~ 08.07</p>
   <br>
-  <h3 align="center">프로젝트 기여자</h3>
+  <h3 align="center">🔷 기여자 🔷</h3>
   <br>
   <table>
     <tr>
@@ -38,7 +38,7 @@
     </tr>
   </table>
   <br>
-  <h3>사용기술 스텍</h3>
+  <h3>🔷 기술스텍 🔷</h3>
   <h4>언어</h4>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
