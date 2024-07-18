@@ -1,10 +1,11 @@
 <H1 align="center">FLUX 프로젝트</H1>
 <br>
 <div align="center">
+  
+[![FLUX WIKI](https://github.com/user-attachments/assets/a314623e-d7aa-4fad-90ae-005acdb23932)](https://github.com/Flux2024/.github/wiki)
 
-👉 [프로젝트 위키](https://github.com/Flux2024/.github/wiki) <br>
-👉 [프로젝트 미로](https://miro.com/welcomeonboard/c0JYOEVIejUwYVJ4VmdWOWlYejZITkVLV1hQN21Ea3czeElqNDhES3o2ODNHQXVFbE92dGRnSVowOThJd1RvaXwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=384584715199)
-<br>
+[![FLUX MIRO](https://github.com/user-attachments/assets/32c194f0-2a64-4cbd-aea7-ee8edb1c9c3d)]([https://github.com/Flux2024/.github/wiki](https://miro.com/welcomeonboard/c0JYOEVIejUwYVJ4VmdWOWlYejZITkVLV1hQN21Ea3czeElqNDhES3o2ODNHQXVFbE92dGRnSVowOThJd1RvaXwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=384584715199))
+  
   <h3>프로젝트 목표</h3>
   <p>본 프로젝트는 최신 웹 기술을 활용하여 온라인 경매 웹 애플리케이션을 구축하는 것을 목표로 합니다.</p> 
   <p>백엔드는 <strong>Spring 프레임워크</strong> 를, 프론트엔드는 <strong>Vue.js 프레임워크</strong> 를 사용하여 구현할 예정입니다.</p>
