@@ -2,11 +2,18 @@
 <br>
 <div align="center">
   
-[![FLUX WIKI](https://github.com/user-attachments/assets/a314623e-d7aa-4fad-90ae-005acdb23932)](https://github.com/Flux2024/.github/wiki)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/Flux2024/.github/wiki">
+    <img src="https://github.com/user-attachments/assets/a314623e-d7aa-4fad-90ae-005acdb23932" alt="FLUX WIKI">
+  </a>
+  <a href="https://miro.com/welcomeonboard/c0JYOEVIejUwYVJ4VmdWOWlYejZITkVLV1hQN21Ea3czeElqNDhES3o2ODNHQXVFbE92dGRnSVowOThJd1RvaXwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=648627703485">
+    <img src="https://github.com/user-attachments/assets/32c194f0-2a64-4cbd-aea7-ee8edb1c9c3d" alt="FLUX MIRO">
+  </a>
+  <a href="https://www.figma.com/design/S13VWlt0WyyU9MjR1o5sg6/FLUX?node-id=0-1&t=qg4snUP77z8Rqdru-1" >
+    <img src="https://github.com/user-attachments/assets/0255183d-fb83-4347-9ac9-5a63bc42f391" alt="FLUX FIGMA">
+  </a>
+</div>
 
-[![FLUX MIRO](https://github.com/user-attachments/assets/32c194f0-2a64-4cbd-aea7-ee8edb1c9c3d)](https://miro.com/welcomeonboard/c0JYOEVIejUwYVJ4VmdWOWlYejZITkVLV1hQN21Ea3czeElqNDhES3o2ODNHQXVFbE92dGRnSVowOThJd1RvaXwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=648627703485)
-
-[![FLUX FIGMA](https://github.com/user-attachments/assets/0255183d-fb83-4347-9ac9-5a63bc42f391)](https://www.figma.com/design/S13VWlt0WyyU9MjR1o5sg6/FLUX?node-id=0-1&t=qg4snUP77z8Rqdru-1)
 <br><br>
 
   <h3>프로젝트 목표</h3>
