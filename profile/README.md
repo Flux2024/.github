@@ -5,7 +5,9 @@
 [![FLUX WIKI](https://github.com/user-attachments/assets/a314623e-d7aa-4fad-90ae-005acdb23932)](https://github.com/Flux2024/.github/wiki)
 
 [![FLUX MIRO](https://github.com/user-attachments/assets/32c194f0-2a64-4cbd-aea7-ee8edb1c9c3d)](https://miro.com/welcomeonboard/c0JYOEVIejUwYVJ4VmdWOWlYejZITkVLV1hQN21Ea3czeElqNDhES3o2ODNHQXVFbE92dGRnSVowOThJd1RvaXwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=648627703485)
-  
+
+[![FLUX FIGMA](https://github.com/user-attachments/assets/0255183d-fb83-4347-9ac9-5a63bc42f391)](https://www.figma.com/design/S13VWlt0WyyU9MjR1o5sg6/FLUX?node-id=0-1&t=qg4snUP77z8Rqdru-1)
+
   <h3>프로젝트 목표</h3>
   <p>본 프로젝트는 최신 웹 기술을 활용하여 온라인 경매 웹 애플리케이션을 구축하는 것을 목표로 합니다.</p> 
   <p>백엔드는 <strong>Spring 프레임워크</strong> 를, 프론트엔드는 <strong>Vue.js 프레임워크</strong> 를 사용하여 구현할 예정입니다.</p>
