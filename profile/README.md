@@ -12,6 +12,9 @@
   <a href="https://www.figma.com/design/S13VWlt0WyyU9MjR1o5sg6/FLUX?node-id=0-1&t=qg4snUP77z8Rqdru-1" >
     <img src="https://github.com/user-attachments/assets/0255183d-fb83-4347-9ac9-5a63bc42f391" alt="FLUX FIGMA">
   </a>
+  <a href="https://www.canva.com/design/DAGN0CgAGPU/tC3kvHD6hpxaWif0N1fy6A/edit?utm_content=DAGN0CgAGPU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >
+      <img src="https://github.com/user-attachments/assets/905d4b26-93ac-418f-bb8a-a2ccfa3799fc" alt="FLUX PPT">
+  </a>
 </div>
 
 <br><br>
