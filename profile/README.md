@@ -68,6 +68,5 @@
 
 <h3>🚀프로젝트 기술스텍</h3><hr><br>
 
-![tech stack](https://github.com/user-attachments/assets/9e492c1d-909b-4adf-9b96-528f5deee401)
-
+![tech stack](https://github.com/user-attachments/assets/068928b3-b523-4c9f-b9e7-c4f920202b17)
 
